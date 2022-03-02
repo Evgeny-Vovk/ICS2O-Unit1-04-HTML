@@ -1,12 +1,12 @@
 /* Created by: Evgeny Vovk
 * Created on: Fab 2022
-* This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
+* This CSS file defines the style for index.html ICS2O-Unit1-04-HTML
 */
 
 h1 {
   text-align: center;
   font-size: 250%;
-  background-color: red;
+  background-color: rgb(200 0 0);
   color: white;
   padding: 30px;
 }
