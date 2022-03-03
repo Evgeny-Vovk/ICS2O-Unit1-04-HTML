@@ -8,4 +8,4 @@
 
 This site can be found at: [https://Evgeny-Vovk.github.io/ICS2O-Unit1-04-HTML](https://Evgeny-Vovk.github.io/ICS2O-Unit1-04-HTML)
 
-The extra website can be found at: [https://Evgeny-Vovk.github.io/ICS2O-Unit1-04-HTML](https://Evgeny-Vovk.github.io/ICS2O-Unit1-04-HTML/extra-index.html)
+The extra site can be found at: [https://Evgeny-Vovk.github.io/ICS2O-Unit1-04-HTML](https://Evgeny-Vovk.github.io/ICS2O-Unit1-04-HTML/extra-index.html)
