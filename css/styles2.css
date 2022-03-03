@@ -27,3 +27,31 @@ h4 {
   border: 3px solid gray;
   text-align: center;
 }
+
+h5 {
+  background-color: red;
+  margin-right: 62em;
+  font-size: 130%;
+  border: 3px solid darkred;
+}
+
+ul {
+  background-color: white;
+  border: 2px solid black;
+  margin-right: 80em;
+  margin-top: -2em;
+}
+
+table {
+  border: 3px solid black;
+}
+
+th {
+  background-color: lightgreen;
+  border: 3px solid black;
+}
+
+tr {
+  background-color: salmon;
+  border: 2px solid black;
+}
