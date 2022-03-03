@@ -44,6 +44,7 @@ ul {
 
 table {
   border: 3px solid black;
+  margin-top: -2em;
 }
 
 th {
